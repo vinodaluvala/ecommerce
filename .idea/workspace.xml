@@ -6,6 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a6f907ad-02de-4021-8d50-ba7c19c0b649" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApp/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApp/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerceApp/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerceApp/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/gateways/payment_gateways.py" beforeDir="false" afterPath="$PROJECT_DIR$/payment/gateways/payment_gateways.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/serializers.py" beforeDir="false" afterPath="$PROJECT_DIR$/payment/serializers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/service.py" beforeDir="false" afterPath="$PROJECT_DIR$/payment/service.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/payment/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/payment/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +36,9 @@
   &quot;associatedIndex&quot;: 6
 }</component>
   <component name="ProjectId" id="2ntQz24APP0ImIJ245S0LpjBiMu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,11 +46,13 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Django Server.ecommerceApp.executor": "Run",
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.pycharm.django.structure.promotion.once.per.project": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/Vinod Raghu/PycharmProjects/ecommerceApp/estore",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -70,6 +81,7 @@
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="ecommerceApp.settings" />
       </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="" />
@@ -107,7 +119,11 @@
       <workItem from="1729790161236" duration="2970000" />
       <workItem from="1729924271743" duration="10571000" />
       <workItem from="1730015588492" duration="11930000" />
-      <workItem from="1730031946945" duration="591000" />
+      <workItem from="1730031946945" duration="2691000" />
+      <workItem from="1730519465130" duration="2277000" />
+      <workItem from="1731161050774" duration="1148000" />
+      <workItem from="1731235338267" duration="921000" />
+      <workItem from="1731297478417" duration="14526000" />
     </task>
     <servers />
   </component>
